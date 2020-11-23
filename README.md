@@ -53,7 +53,7 @@ python manage.py runserver
 
 ![upload_image](./public/upload_image.png)
 
-- Wait it the image is processing
+- Wait till the image is processing
 
 ![processing](./public/processing.png)
 
